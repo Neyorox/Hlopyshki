@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+}
+
+header p {
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    
+}
+header {
+    background-color:rgb(93,118,203);
+    padding: 10px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+main h1 {
+    font-size: 30px;
+    color: rgb(61, 61, 221);
+    text-align: center;
+}
+
+.ramka {
+    border: 4px solid rgb(61, 61, 221);
+}
+
+footer p {
+     border: 4px solid rgb(61, 61, 221);
+}
+
+nav a {
+    background-color:rgb( 66,133,180);
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+    margin: 20px;
+    color:black;
+    font-size: large;
+    
+}
+nav {
+    text-align: center;
+    padding: 15px;
+}
+.prod {
+    border: 4px solid rgb(61, 61, 221);
+    background-color: white;
+
+}
+
+.hlop {
+    background-color:rgb(65,105,225);
+    color:black;
+    font-size: large;
+    border-radius: 20px;
+}
+
+.petar {
+    background-color:rgb(65,105,225);
+   
+    color:black;
+    font-size: large;
+    border-radius: 20px;
+}
+
+nav p {
+    padding: 2;
+}
+
+.fontan {
+    background-color:rgb(65,105,225);
+    color:black;
+    font-size: large;
+    border-radius: 20px;
+}
+.wari {
+    background-color:rgb(65,105,225);
+    color:black;
+    font-size: large;
+    border-radius: 20px;
+}
+
+.tovar p {
+    margin: 20px;
+   
+}
+
+#podarki {
+    border: 2px solid aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#discount {
+    color: rgb(39, 39, 250);
+}
+
+#podar {
+    border: 1px solid aqua;
+    border-radius: 10px;
+}
+
+#delivery {
+    color: rgb(39, 39, 250);
+}
+
+#contact {
+    text-decoration: none;
+    border: 2px solid rgb(39, 39, 250);
+    padding: 10px;
+}
+
+#telega {
+    height: 200px;
+}
+
+#wholesale {
+    color: rgb(39, 39, 250);
+}
+
+#about_us {
+    color: rgb(39, 39, 250);
+}
+
+#naverx {
+    text-decoration: none;
+    border: 2px solid rgb(19, 19, 250);
+    padding: 5px;
+}
